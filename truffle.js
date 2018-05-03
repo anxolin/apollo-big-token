@@ -1,7 +1,14 @@
 // See <http://truffleframework.com/docs/advanced/configuration>
 // to customize your Truffle configuration!
 
-const config = {};
+const config = {
+  networks: {
+    // Network ids: https://ethereum.stackexchange.com/a/17101
+    rinkeby: {
+      network_id: 4
+    }
+  }
+};
 
 const _ = require("lodash");
 
