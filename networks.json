@@ -1,1 +1,16 @@
-{}
+{
+  "AddressRegistry": {
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0x717031ac0d0929a77710c5444af2f9e40b984b9e"
+    }
+  },
+  "BigToken": {
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0x532e7ec52a5c2185f38dcdc52722369e3fce3b7e"
+    }
+  }
+}
